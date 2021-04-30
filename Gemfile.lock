@@ -60,7 +60,7 @@ GEM
     regexp_parser (1.7.1)
     rerun (0.13.1)
       listen (~> 3.0)
-    rexml (3.2.4)
+    rexml (3.2.5)
     rubocop (0.90.0)
       parallel (~> 1.10)
       parser (>= 2.7.1.1)
